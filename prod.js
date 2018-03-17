@@ -1,7 +1,7 @@
 const ImageminPlugin = require('imagemin-webpack-plugin')
   .default;
 const HtmlMinifierPlugin = require('html-minifier-webpack-plugin');
-const ClosureCompilerPlugin = require('webpack-closure-compiler');
+//const ClosureCompilerPlugin = require('webpack-closure-compiler');
 const OfflinePlugin = require('offline-plugin');
 
 module.exports = function (env) {
@@ -59,14 +59,14 @@ module.exports = function (env) {
       }),
       // ... other plugins
       new HtmlMinifierPlugin({}),
-      new ClosureCompilerPlugin({
-        compiler: {
-          language_in: 'ECMASCRIPT6',
-          language_out: 'ECMASCRIPT5',
-          compilation_level: 'ADVANCED',
-        },
-        concurrency: 8,
-      }),
+      //new ClosureCompilerPlugin({
+      //  compiler: {
+      //    language_in: 'ECMASCRIPT6',
+      //    language_out: 'ECMASCRIPT5',
+      //    compilation_level: 'ADVANCED',
+      //  },
+      //  concurrency: 8,
+      //}),
       new OfflinePlugin({
         externals: ['./android-chrome-192x192.png', './android-chrome-512x512.png', './favicon-32x32.png', './favicon-16x16.png', './js/materialize.min.js', './js/jquery-3.2.1.min.js', './manifest.json'],
         caches: 'all',
