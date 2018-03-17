@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xtreemze/KullabergInfoDesk.git"
+    "url": "git+https://github.com/kullaberg/KullabergInfoDesk.git"
   },
   "author": "Carlos Velasco",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/xtreemze/KullabergInfoDesk/issues"
+    "url": "https://github.com/kullaberg/KullabergInfoDesk/issues"
   },
-  "homepage": "https://github.com/xtreemze/KullabergInfoDesk#readme",
+  "homepage": "https://github.com/kullaberg/KullabergInfoDesk#readme",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^6.4.1",
