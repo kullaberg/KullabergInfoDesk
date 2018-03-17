@@ -3,7 +3,7 @@
 KullabergInfoDesk (Velasco)
 
 How to open​:
-Click on link https://xtreemze.github.io/KullabergInfoDesk/ saves offline automatically
+Click on link https://kullaberg.github.io/KullabergInfoDesk/ saves offline automatically
 Can save to homescreen on mobile or desktop with icon
 ​Facebook App button
 
