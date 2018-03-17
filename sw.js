@@ -68,9 +68,9 @@ var __wpo = {
     "./manifest.json"
   ],
   "hashesMap": {
-    "8046a130c48fd1e3171cc19d72e6a95ce2c6f217": "./embedEn.html",
-    "1344800b8d0a4fb2f0f7e25876ef3be65378f7a9": "./iframeEn.html",
-    "1311f3a3a88e9af6e2b637ae3d82f008006b4a1d": "./",
+    "998ad9e134d181d3cc3c49245c6428425b36153c": "./embedEn.html",
+    "1e6c3e12db169b9afc67576d7edd6b998b6aeb96": "./iframeEn.html",
+    "1db2c20466c86ec58daea30664ba62401f9e2440": "./",
     "02acf9a6077c6fd0ba37b5f16499365bf05eb7c9": "./fonts/materialdesignicons-webfont.eot",
     "f70e244175be4f96a237a748577f28f39dd3c7cb": "./fonts/materialdesignicons-webfont.svg",
     "0d237a357a6428d90612b24e71a74deb9a1b062a": "./fonts/materialdesignicons-webfont.ttf",
@@ -117,7 +117,7 @@ var __wpo = {
   },
   "strategy": "all",
   "responseStrategy": "network-first",
-  "version": "2018-3-17 17:32:39",
+  "version": "2018-3-17 18:27:51",
   "name": "webpack-offline",
   "pluginVersion": "4.9.0",
   "relativePaths": true
